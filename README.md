@@ -11,3 +11,5 @@ Useful links:
 https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
 https://nodejs.org/en/
 https://cloud.mongodb.com/user#/atlas/login
+
+https://pastebin.com/BLku91cT
